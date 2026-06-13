@@ -9,7 +9,7 @@ This is the reference implementation of the method in:
 > belief network. *Indonesian Journal of Electrical Engineering and Computer
 > Science (IJEECS)*, 35(2), 1073–1081, 2024.
 > DOI: [10.11591/ijeecs.v35.i2.pp1073-1081](https://doi.org/10.11591/ijeecs.v35.i2.pp1073-1081)
-
+> Link Alternative : https://www.researchgate.net/publication/382776763_Defence_against_adversarial_attacks_on_IoT_detection_systems_using_deep_belief_network
 ## What it does
 End-to-end pipeline for robust IoT intrusion detection:
 
